@@ -14,9 +14,6 @@ Se incluyen las siguientes características:
   - PUT `/api/students/{id}` → Actualizar estudiante
   - DELETE `/api/students/{id}` → Eliminar estudiante
 - Conexión a Oracle con `DbContext` y `appsettings.json`
-- Documentación y prueba de endpoints con **Swagger UI**
-
----
 
  Tecnologías utilizadas
 
